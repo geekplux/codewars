@@ -29,5 +29,23 @@ var twoSum = function(nums, target) {
   return indices;
 };
 
+
 console.log(twoSum([2, 7, 11, 15], 9));
 
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum1 = function(nums, target) {
+  let indices;
+  const map = new Map;
+  nums.map((n, i) => {
+    const complement = target - n;
+    if (map.has(complement)) indices = [map.get(complement), i];
+    map.set(n, i);
+  });
+  return indices;
+};
+
+console.log(twoSum1([2, 7, 11, 15], 13));
