@@ -10,6 +10,7 @@
 - 167.Two Sum II `easy` `array` [link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) [code](./leetcode_167.js)
 - 26.Remove Duplicates from Sorted Array `easy` `array` [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [code](./leetcode_26.js)
 - 27.Remove Element `easy` `array` [link](https://leetcode.com/problems/remove-element/description/) [code](./leetcode_27.js)
+- 203.Remove Linked List Elements `easy` `linked list` [link](https://leetcode.com/problems/remove-linked-list-elements/description/) [code](./leetcode_203.js)
 
 ## lintcode
 
