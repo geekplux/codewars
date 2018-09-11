@@ -12,6 +12,7 @@
 - 27.Remove Element `easy` `array` [link](https://leetcode.com/problems/remove-element/description/) [code](./leetcode_27.js)
 - 203.Remove Linked List Elements `easy` `linked list` [link](https://leetcode.com/problems/remove-linked-list-elements/description/) [code](./leetcode_203.js)
 - 832.Flipping an Image `easy` `array` [link](https://leetcode.com/problems/flipping-an-image/description/) [code](./leetcode_832.js)
+- 442.Find All Duplicates in an Array `medium` `array` [link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) [code](./leetcode_442.js)
 
 ## lintcode
 
