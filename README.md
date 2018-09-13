@@ -19,6 +19,7 @@
 - 206.Reverse Linked List `easy` `linked list` [link](https://leetcode.com/problems/reverse-linked-list/description/) [code](./leetcode/206.js)
 - 83.Remove Duplicates from Sorted List `easy` `linked list` [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [code](./leetcode/83.js)
 - 82.Remove Duplicates from Sorted List II `medium` `linked list` [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [code](./leetcode/82.js)
+- 92.Reverse Linked List II `medium` `linked list` [link](https://leetcode.com/problems/reverse-linked-list-ii/description/) [code](./leetcode/92.js)
 
 ## lintcode
 
