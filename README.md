@@ -18,9 +18,8 @@
 - 876.Middle of the Linked List `easy` `linked list` [link](https://leetcode.com/problems/middle-of-the-linked-list/description/) [code](./leetcode/876.js)
 - 206.Reverse Linked List `easy` `linked list` [link](https://leetcode.com/problems/reverse-linked-list/description/) [code](./leetcode/206.js)
 - 83.Remove Duplicates from Sorted List `easy` `linked list` [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [code](./leetcode/83.js)
+- 82.Remove Duplicates from Sorted List II `medium` `linked list` [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [code](./leetcode/82.js)
 
 ## lintcode
 
 - 407.Plus One `easy` `string` [link](https://lintcode.com/problem/plus-one/description) [code](./lintcode/407.js)
-
-
