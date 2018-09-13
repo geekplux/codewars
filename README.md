@@ -17,6 +17,7 @@
 - 41.First Missing Positive `hard` `array` [link](https://leetcode.com/problems/first-missing-positive/description/) [code](./leetcode/41.js)
 - 876.Middle of the Linked List `easy` `linked list` [link](https://leetcode.com/problems/middle-of-the-linked-list/description/) [code](./leetcode/876.js)
 - 206.Reverse Linked List `easy` `linked list` [link](https://leetcode.com/problems/reverse-linked-list/description/) [code](./leetcode/206.js)
+- 83.Remove Duplicates from Sorted List `easy` `linked list` [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [code](./leetcode/83.js)
 
 ## lintcode
 
