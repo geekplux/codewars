@@ -21,6 +21,7 @@
 - 82.Remove Duplicates from Sorted List II `medium` `linked list` [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [code](./leetcode/82.js)
 - 92.Reverse Linked List II `medium` `linked list` [link](https://leetcode.com/problems/reverse-linked-list-ii/description/) [code](./leetcode/92.js)
 - 2.Add Two Numbers `medium` `linked list` [link](https://leetcode.com/problems/add-two-numbers/description/) [code](./leetcode/2.js)
+- 3.Longest Substring Without Repeating Characters `medium` `string` [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) [code](./leetcode/3.js)
 
 ## lintcode
 
