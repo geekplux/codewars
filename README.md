@@ -25,6 +25,7 @@
 - 4.Median of Two Sorted Arrays `hard` `array` [link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) [code](./leetcode/4.js)
 - 5.Longest Palindromic Substring `medium` `string` [link](https://leetcode.com/problems/longest-palindromic-substring/description/) [code](./leetcode/5.js)
 - 6.ZigZag Conversion `medium` `string` [link](https://leetcode.com/problems/zigzag-conversion/description/) [code](./leetcode/6.js)
+- 7.Reverse Integer `easy` `Math` [link](https://leetcode.com/problems/reverse-integer/description/) [code](./leetcode/7.js)
 
 ## lintcode
 

@@ -44,7 +44,6 @@ var convert = function(s, numRows) {
 
   for (let i = 0; i < s.length; i++) {
     solution[index] += s[i];
-    console.log(solution);
     index += turnFlag;
     if (!index || index === numRows - 1) turnFlag *= -1;
   }
