@@ -25,9 +25,10 @@
 - 4.Median of Two Sorted Arrays `hard` `array` [link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) [code](./leetcode/4.js)
 - 5.Longest Palindromic Substring `medium` `string` [link](https://leetcode.com/problems/longest-palindromic-substring/description/) [code](./leetcode/5.js)
 - 6.ZigZag Conversion `medium` `string` [link](https://leetcode.com/problems/zigzag-conversion/description/) [code](./leetcode/6.js)
-- 7.Reverse Integer `easy` `Math` [link](https://leetcode.com/problems/reverse-integer/description/) [code](./leetcode/7.js)
-- 9.Palindrome Number `easy` `Math` [link](https://leetcode.com/problems/palindrome-number/description/) [code](./leetcode/9.js)
+- 7.Reverse Integer `easy` `math` [link](https://leetcode.com/problems/reverse-integer/description/) [code](./leetcode/7.js)
+- 9.Palindrome Number `easy` `math` [link](https://leetcode.com/problems/palindrome-number/description/) [code](./leetcode/9.js)
 - 11.Container With Most Water `medium` `Array` [link](https://leetcode.com/problems/container-with-most-water/description/) [code](./leetcode/11.js)
+- 12.Integer to Roman `medium` `math` `string` [link](https://leetcode.com/problems/integer-to-roman/description/) [code](./leetcode/12.js)
 
 ## lintcode
 
