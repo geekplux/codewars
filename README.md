@@ -29,6 +29,7 @@
 - 9.Palindrome Number `easy` `math` [link](https://leetcode.com/problems/palindrome-number/description/) [code](./leetcode/9.js)
 - 11.Container With Most Water `medium` `Array` [link](https://leetcode.com/problems/container-with-most-water/description/) [code](./leetcode/11.js)
 - 12.Integer to Roman `medium` `math` `string` [link](https://leetcode.com/problems/integer-to-roman/description/) [code](./leetcode/12.js)
+- 13.Roman to Integer `medium` `math` `string` [link](https://leetcode.com/problems/roman-to-integer/description/) [code](./leetcode/13.js)
 
 ## lintcode
 
