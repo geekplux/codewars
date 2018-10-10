@@ -30,6 +30,7 @@
 - 11.Container With Most Water `medium` `Array` [link](https://leetcode.com/problems/container-with-most-water/description/) [code](./leetcode/11.js)
 - 12.Integer to Roman `medium` `math` `string` [link](https://leetcode.com/problems/integer-to-roman/description/) [code](./leetcode/12.js)
 - 13.Roman to Integer `medium` `math` `string` [link](https://leetcode.com/problems/roman-to-integer/description/) [code](./leetcode/13.js)
+- 14.Longest Common Prefix `easy` `string` [link](https://leetcode.com/problems/longest-common-prefix/description/) [code](./leetcode/14.js)
 
 ## lintcode
 
