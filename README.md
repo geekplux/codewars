@@ -31,6 +31,8 @@
 - 12.Integer to Roman `medium` `math` `string` [link](https://leetcode.com/problems/integer-to-roman/description/) [code](./leetcode/12.js)
 - 13.Roman to Integer `medium` `math` `string` [link](https://leetcode.com/problems/roman-to-integer/description/) [code](./leetcode/13.js)
 - 14.Longest Common Prefix `easy` `string` [link](https://leetcode.com/problems/longest-common-prefix/description/) [code](./leetcode/14.js)
+- 15.3Sum `medium` `array` [link](https://leetcode.com/problems/3sum/) [code](./leetcode/15.js)
+- 16.3Sum Closest `medium` `array` [link](https://leetcode.com/problems/3sum-closest/) [code](./leetcode/16.js)
 
 ## lintcode
 
