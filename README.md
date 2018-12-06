@@ -33,6 +33,7 @@
 - 14.Longest Common Prefix `easy` `string` [link](https://leetcode.com/problems/longest-common-prefix/description/) [code](./leetcode/14.js)
 - 15.3Sum `medium` `array` [link](https://leetcode.com/problems/3sum/) [code](./leetcode/15.js)
 - 16.3Sum Closest `medium` `array` [link](https://leetcode.com/problems/3sum-closest/) [code](./leetcode/16.js)
+- 17.Letter Combinations of a Phone Number `medium` `string` [link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [code](./leetcode/17.js)
 
 ## lintcode
 
